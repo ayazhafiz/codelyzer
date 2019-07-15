@@ -17,7 +17,7 @@
     "@angular/compiler": "2.4.10",
     "@angular/core": "2.4.10",
     "codelyzer": "5.1.0",
-    "codemirror": "5.15.2",
+    "codemirror": "5.48.0",
     "rxjs": "5.5.12",
     "tslint": "3.15.1",
     "typescript": "2.9.2",
